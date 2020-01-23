@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #6da6ec;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display:    inline-block;
+}
+h1{
+    margin: 30px;
+    text-shadow:  5px 5px white;
+    font-size: 6rem;
+    color: black;
+
+}
+p{
+    font-size: 2rem;
+     color: black;
+     text-shadow: 1px 1px white;
+     margin: 15px;
+}
+
+button{
+    padding: 15px;
+    border: none;
+    MARGIN: 15PX;
+    border-radius: 30px;
+    background-color: #303333;
+    font-style: inherit;
+    color: white;
+}
+img{
+    width: 70%;
+}
